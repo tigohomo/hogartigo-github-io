@@ -4,9 +4,9 @@ fuentes, colores y recursos*/
          :root {
             --textos: 'Lato', sans-serif;
             --titulos: 'Roboto', sans-serif;
-            --colorFondo: rgb(114, 127, 248);
+          
             --colorHeader: rgba(23, 23, 51, 0.6);
-            --colorFooter: #3965f3;
+           
         }
         /* estilos para el cuerpo (body)
    se utiliza el selector de etiqueta*/

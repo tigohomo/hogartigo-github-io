@@ -17,7 +17,7 @@ fuentes, colores y recursos*/
         }
         
         body {
-               background-color: #80c2ee;
+              color: #80c2ee;
             /*rem representa 12 px*/
         }
         
@@ -131,7 +131,7 @@ fuentes, colores y recursos*/
         }
         
         #home .social a:hover {
-            background-color: #36b5fe;
+             background-color: #632aa5;
         }
         
         #home {
@@ -172,7 +172,7 @@ fuentes, colores y recursos*/
         }
         
         #home .social a:hover {
-            background-color: #9394dd;
+            background-color:  859af7
         }
         /*secciones*/
         

@@ -21,7 +21,7 @@ fuentes, colores y recursos*/
         }
         
         body {
-              color: #80c2ee;
+          background-color:rgb(238, 224, 224)
             /*rem representa 12 px*/
         }
         
@@ -55,7 +55,7 @@ fuentes, colores y recursos*/
         .home-wrapper {
             background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.6)), url('../images/conectividad.jpg') no-repeat center top;
             background-size: cover;
-            color: #000;*/
+           
         }
         /*header*/
         
@@ -73,6 +73,8 @@ fuentes, colores y recursos*/
         header nav {
             float: right;
             margin-top: 10px;
+                  background-color: rgba(41, 36, 36, 0.6);
+                
         }
         
         header nav a {

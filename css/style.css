@@ -46,15 +46,7 @@ fuentes, colores y recursos*/
         }
         /*sintaxis para las clases en css es con punto (.)*/
         
-        .container {
-            width: 25px;
-            margin-left: 10px;
-            padding: 5px 0 5px;
-            border-radius: 250px;
-            box-sizing: content-box;
-            border-bottom-left-radius: 12px 0 12px;
-            padding: 1px 0;
-        }
+  
         
         .home-wrapper {
             background: linear-gradient(rgba(0, 0, 0, 0.678), rgba(0, 0, 0, 0.6)), url('../images/conectividad.jpg') no-repeat center top;
@@ -281,7 +273,7 @@ fuentes, colores y recursos*/
             color: rgb(22, 11, 11);
         }
         
-        .homefg {
+        .home{
             text-align: center;
             background-color: #8741f8;
             margin-left: 90px;

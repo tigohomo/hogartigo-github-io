@@ -1,9 +1,13 @@
         /*declarar constantes de diseño para las 
 fuentes, colores y recursos*/
         
-         :root {
-            --textos: 'Lato', sans-serif;
-            --titulos: 'Roboto', sans-serif;
+     :root {
+    --textos: 'Lato', sans-serif;
+    --titulos: 'Roboto', sans-serif;
+    --colorFondo: rgb(238, 224, 224);
+    --colorHeader: rgba(41, 36, 36, 0.6);
+    --colorFooter: #000;
+}
           
           
            

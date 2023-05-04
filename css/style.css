@@ -63,7 +63,8 @@ fuentes, colores y recursos*/
             position: fixed;
             /*fija el elemento en el html*/
             width: 100%;
-            background-color: var(--colorHeader);
+            background-color: rgba(41, 36, 36, 0.6);
+                color:rgba(41, 36, 36, 0.6)
             padding: 10px 0;
         }
         
